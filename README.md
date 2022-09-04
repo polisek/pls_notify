@@ -54,6 +54,12 @@ TriggerClientEvent("pn:CustomNotification", src, {
 })
 ```
 
+# Types
+success,
+error,
+warning,
+info
+
 # Custom classes
 add to class = 
 
