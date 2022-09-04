@@ -28,6 +28,41 @@ TriggerClientEvent("pn:Notification", src, {
 
 Custom notification
 
+Client
+```
+exports["pls_notify"]:CustomNotification({  
+        type = "success",
+        title="Notification test", 
+        text="Notification description",
+        timeout=5000,
+        class = "earleblack",
+        showicon = true,
+        stype = 3, 
+}) 
+```
+
+Server
+```
+TriggerClientEvent("pn:CustomNotification", src, {  
+        type = "success",
+        title="Notification test", 
+        text="Notification description",
+        timeout=5000,
+        class = "earleblack",
+        showicon = true,
+        stype = 3, 
+})
+```
+
+# Custom classes
+add to class = 
+
+cordovan
+earleblack
+champane
+tealblue
+mdgreen
+pink1
 
 
 # Screenshot
