@@ -57,12 +57,12 @@ TriggerClientEvent("pn:CustomNotification", src, {
 # Custom classes
 add to class = 
 
-cordovan
-earleblack
-champane
-tealblue
-mdgreen
-pink1
+cordovan,
+earleblack,
+champane,
+tealblue,
+mdgreen,
+pink1,
 
 
 # Screenshot
