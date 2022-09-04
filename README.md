@@ -1,4 +1,4 @@
-# pls_notify
+# pls_notify - Easy notifications for RedM
 
 Simple notifications for RedM
 
