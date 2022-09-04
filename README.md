@@ -7,16 +7,24 @@ Simple notifications for RedM
 Default notification
 
 Client
+```
 exports["pls_notify"]:Notification({  
         type="success", 
         title="Notification test",
         text="Notification description", 
         timeout=5000,
 }) 
+```
 
 Server
-TriggerClientEvent("pn:Notification", src, {options})
-
+```
+TriggerClientEvent("pn:Notification", src, {  
+        type="success", 
+        title="Notification test",
+        text="Notification description", 
+        timeout=5000,
+})
+```
 
 Custom notification
 
