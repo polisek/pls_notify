@@ -79,7 +79,7 @@ pink1,
 # Used library
 
 https://github.com/simple-notify/simple-notify
-
+Thanks
 
 
 # Support
