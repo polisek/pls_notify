@@ -3,9 +3,22 @@
 Simple notifications for RedM
 
 # Example
-[code]
-TEST
-[/code]
+
+Default notification
+
+Client
+exports["pls_notify"]:Notification({  
+        type="success", 
+        title="Notification test",
+        text="Notification description", 
+        timeout=5000,
+}) 
+
+Server
+TriggerClientEvent("pn:Notification", src, {options})
+
+
+Custom notification
 
 
 
