@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+body{
+    position: relative;
+    margin:0 auto;
+    padding:0;
+}
+
+
+/*Custom classes*/
+
+.pink1,.pink1 > .notify-content >  .notify__title, .pink1 > .notify-content > .notify__text{     
+    background: #FF69B4 !important;
+    color:#fff !important;  
+    border:0px !important;
+}  
+.pink1::before{background: #fff !important;}    
+
+
+.mdgreen,.mdgreen > .notify-content >  .notify__title, .mdgreen > .notify-content > .notify__text{
+    background: #074f57 !important; 
+    color:#fff !important; 
+    border:0px !important;}
+.mdgreen::before{background: #fff !important;}   
+
+.tealblue,.tealblue > .notify-content >  .notify__title, .tealblue > .notify-content > .notify__text{
+    background: #077187 !important;
+    color:#fff !important; 
+    border:0px !important;
+}
+.tealblue::before{background: #fff !important;}   
+
+.champane,.champane > .notify-content >  .notify__title,.champane > .notify-content > .notify__text{
+    background: #e4c5af!important;
+    color:#fff !important; 
+    border:0px !important;
+}
+.champane::before{background: #F3DFD0 !important;}     
+
+.earleblack,.earleblack > .notify-content >  .notify__title,.earleblack > .notify-content > .notify__text{
+    background: #252627!important; 
+    color:#fff !important; 
+    border:0px !important;
+}
+.earleblack::before{background: #fff !important;}  
+ 
+.cordovan,.cordovan > .notify-content >  .notify__title, .cordovan > .notify-content > .notify__text{
+    background: #904e55!important; 
+    color:#fff !important; 
+    border:0px !important; 
+}
+.cordovan::before{background: #fff !important;}     
+ 
+
+ 
+
+ 
