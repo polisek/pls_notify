@@ -76,3 +76,8 @@ https://github.com/simple-notify/simple-notify
 
 
 
+# Support
+- discord : https://discord.gg/VvRGG6rPCc
+- email : polismanovicp@gmail.com
+- support: https://paypal.me/Polisek?country.x=CZ&locale.x=cs_CZ
+
