@@ -69,6 +69,13 @@ champane,
 tealblue,
 mdgreen,
 pink1,
+paradisepink,
+beutypurple,
+spacecadet,
+smgreen,
+blackcoral,
+nicket
+jet
 
 
 # Screenshot
