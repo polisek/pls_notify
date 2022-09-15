@@ -52,6 +52,61 @@ body{
 .cordovan::before{background: #fff !important;}     
  
 
- 
+ /*Update*/
+.paradisepink,.paradisepink> .notify-content >  .notify__title, .paradisepink > .notify-content > .notify__text{
+    background: #ED4D6E!important; 
+    color:#fff !important; 
+    border:0px !important; 
+}
+.paradisepink::before{background: #fff !important;} 
+
+.beutypurple,.beutypurple> .notify-content >  .notify__title, .beutypurple > .notify-content > .notify__text{
+    background: #7F2CCB!important; 
+    color:#fff !important; 
+    border:0px !important; 
+}
+.beutypurple::before{background: #fff !important;} 
+
+.spacecadet,.spacecadet> .notify-content >  .notify__title, .spacecadet > .notify-content > .notify__text{
+    background: #2A2D43!important; 
+    color:#fff !important; 
+    border:0px !important; 
+}
+.spacecadet::before{background: #fff !important;} 
+
+
+.smgreen,.smgreen> .notify-content >  .notify__title, .smgreen > .notify-content > .notify__text{
+    background: #7DDF64!important; 
+    color:#fff !important; 
+    border:0px !important; 
+}
+.smgreen::before{background: #fff !important;} 
+
+
+
+.blackcoral,.blackcoral> .notify-content >  .notify__title, .blackcoral > .notify-content > .notify__text{
+    background: #465362!important; 
+    color:#fff !important; 
+    border:0px !important; 
+}
+.blackcoral::before{background: #fff !important;} 
+
+
+.nicket,.nicket> .notify-content >  .notify__title, .nicket > .notify-content > .notify__text{
+    background: #6A706E!important; 
+    color:#fff !important; 
+    border:0px !important; 
+}
+.nicket::before{background: #fff !important;} 
+
+
+
+
+.jet,.jet> .notify-content >  .notify__title, .jet > .notify-content > .notify__text{
+    background: #323031!important; 
+    color:#fff !important; 
+    border:0px !important; 
+}
+.jet::before{background: #fff !important;} 
 
  
