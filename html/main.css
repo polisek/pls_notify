@@ -63,7 +63,6 @@ body{
     border:0px !important;
     border-radius: 0px !important;
     font-family: 'Satisfy', cursive !important; 
-    clip-path: polygon(3% 0, 0 13%, 1% 37%, 0 82%, 1% 100%, 79% 97%, 98% 100%, 100% 87%, 100% 58%, 98% 21%, 99% 0, 60% 2%) !important;
 }  
 .redmstyle4::before{background: #fff !important;}
 
