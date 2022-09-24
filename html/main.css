@@ -11,38 +11,51 @@ body{
 }
  
 
+
 /*Custom classes*/
+.redmstyle{
+    clip-path: polygon(2% 0, 0% 20%, 1% 49%, 0% 80%, 3% 100%, 26% 96%, 96% 100%, 100% 88%, 99% 58%, 100% 20%, 99% 0, 60% 2%) !important;
+}
 .redmstyle,.redmstyle > .notify-content >  .notify__title, .redmstyle > .notify-content > .notify__text{     
     background: #1e1c1d !important;
     color:#fff !important;  
     border:0px !important;
     border-radius: 0px !important;
     font-family: 'Montserrat Alternates', sans-serif;
-    clip-path: polygon(2% 0, 0% 20%, 1% 49%, 0% 80%, 3% 100%, 26% 96%, 96% 100%, 100% 88%, 99% 58%, 100% 20%, 99% 0, 60% 2%) !important;
+    
 }  
 .redmstyle::before{background: #fff !important;} 
 
 
+.redmstyle2{
+    clip-path: polygon(2% 0, 0% 20%, 1% 49%, 0% 80%, 3% 100%, 26% 96%, 96% 100%, 100% 88%, 99% 58%, 100% 20%, 99% 0, 60% 2%) !important;
+}
 .redmstyle2,.redmstyle2 > .notify-content >  .notify__title, .redmstyle2 > .notify-content > .notify__text{     
     background: #1e1c1d !important;
     color:#fff !important;  
     border:0px !important;
     border-radius: 0px !important;
     font-family: 'Montagu Slab', serif !important;
-    clip-path: polygon(2% 0, 0% 20%, 1% 49%, 0% 80%, 3% 100%, 26% 96%, 96% 100%, 100% 88%, 99% 58%, 100% 20%, 99% 0, 60% 2%) !important;
 }  
 .redmstyle2::before{background: #fff !important;} 
 
+
+.redmstyle3{
+    clip-path: polygon(3% 0, 0 13%, 1% 37%, 0 82%, 1% 100%, 79% 97%, 98% 100%, 100% 87%, 100% 58%, 98% 21%, 99% 0, 60% 2%) !important;
+}
 .redmstyle3,.redmstyle3 > .notify-content >  .notify__title, .redmstyle3 > .notify-content > .notify__text{     
     background: #1e1c1d !important;
     color:#fff !important;  
     border:0px !important;
     border-radius: 0px !important;
     font-family: 'Montagu Slab', serif !important;
-    clip-path: polygon(3% 0, 0 13%, 1% 37%, 0 82%, 1% 100%, 79% 97%, 98% 100%, 100% 87%, 100% 58%, 98% 21%, 99% 0, 60% 2%) !important;
 }  
 .redmstyle3::before{background: #fff !important;}
 
+
+.redmstyle4{
+    clip-path: polygon(3% 0, 0 13%, 1% 37%, 0 82%, 1% 100%, 79% 97%, 98% 100%, 100% 87%, 100% 58%, 98% 21%, 99% 0, 60% 2%) !important;
+}
 
 .redmstyle4,.redmstyle4 > .notify-content >  .notify__title, .redmstyle4 > .notify-content > .notify__text{     
     background: #1e1c1d !important;
