@@ -1,6 +1,6 @@
-# pls_notify - Easy notifications for RedM
+# pls_notify - Easy notifications for RedM / FiveM
 
-Simple notifications for RedM
+Simple notifications for RedM / FiveM
 
 # Example
 
